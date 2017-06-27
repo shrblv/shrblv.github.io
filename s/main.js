@@ -109,7 +109,7 @@ $(function() {
 	var animando = false,
         firstLoad = false,
         pst=0,
-        mnu='<div id="m"><div class="center"><div class="p1 g2 logo"/><div class="logocliente g2"/></div><div class="mbtn"><div class="nicn"/></div></div>',
+        mnu='<div id="m"><div class="center"><a href="/" class=dmd><div class="p1 g2 logo"/></a><div class="logocliente g2"/></div><div class="mbtn"><div class="nicn"/></div></div>',
         nav='<aside id="cap"/><aside id="nav"/>',
         mpa='<div id="smap"><div class="mbtn x"/><div class="center"><div class="g3"><h4><a href="/" class=dmd>inicio</a></h4><p>proyectos</p><p>perfil</p><p>contacto</p></div><div class="g3"><h4><a href="/#ps" class=dmd data-l="#ps">proyectos</a></h4><p>portafolio selecto</p><p>proyectos internos</p><p>paramétrica</p></div><div class="g3"><h4><a href="/perfil/" class=dmd>perfil</a></h4><p>estudio</p><p>proceso</p><p>div. gráfica</p><p>div. digital</p><p>div. industrial</p><p>clientes</p><p>premios</p></div><div class="g3"><h4><a href="/contacto/" class=dmd>contacto</a></h4><p>redes / teléfonos</p><p>prensa / servicio</p><p>talento</p><p>locación</p></div></div><div class=capa/></div>',
         ldr='<div id=loader><h1 class=noletra/><div/><div/><div/><div/><div/><div/></div>',
